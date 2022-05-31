@@ -1,2 +1,0 @@
-# notionsite
-notion
